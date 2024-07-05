@@ -1,0 +1,26 @@
+id, question, answer, page_no, type
+1, what is simplex mode, transmission of data and information that takes place in only one direction., 9, s
+2, what are 5 basic components of data communication, data sender medium receiver and protocol, 10, s 
+3, Define protocols, A set of rules followed for interconnection and communication between computers Pin a network, 21, s
+4, What are main type computer network, LAN MAN WAN, 21, s
+5, What are features of WAN, It covers the whole world and cannot be restricted to any geographical location. It uses satellite and microwave communication. It is normally owned by multiple organizations.Communication links are provided by public carriers like telephone networks satellites network providers cable systems etc. They have low data transfer rate and high propagation delay so they have low  communication speed., 23, l
+6, What are advantages of P2P network, All resources and contentions can be shared in this network. System administrator is not required and each user can control their shared resources. The failure of one computer doesn't affect the functioning of other peers., 24, l
+7, What is clint server network, network model where one or more powerful computers (servers) provide the different network services and all other users of computer network (clients) access those services  to perform user's tasks, 25, s
+8, Define topology, inter-connected pattern of network components., 27, s
+9, What is bus topology, topology where all nodes and network devices are connected to single cable, 27, s
+10, How can we convert hexadecimal to octal number system, Write binary equivalent 4 digits group to each hexadecimal number. Now again form the group of three digits from right to left. Give the result base 8., 102, l
+11, What are forms, MS-Access database objects that is primarily used to create an interface for entering data in a table or multiple linked tables., 147, s
+12, What is AI, systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect., 82, s
+13, give short introduction of mobile computing, generic term that refers to a variety of devices that allow people to access data and information from wherever they are., 84, s
+14, Give one example of cloud storage, Google drive, 87, s
+15, What is number system that we use in our day to day life , Decimal number system, 90, s
+16, What is file, The collection of different data or information or instructions which is stored in secondary storage devices under a unique file name, 194, s
+17, What is string constant in c, message to be displayed along with the other values stored in variables., 231, s
+18, What are principle of mobile computing, Portability Connectivity Interactivity Individuality, 85, s
+19, When and where world wide web was created, 1989 AD in Switzerland, 30, s
+20, What does ICT stands for, Information and Communication Technology, 84, s
+21, Define table dataset, the display of records in row and column format., 129, s
+22, What is more secure biometric or password, Biometric, 59, s
+23, what does cryptography mean, study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents., 60, s
+24, Give some examples of Anti virus, Bitdefender Antivirus Plus 2020 Norton AntiVirus(NAV) Plus Webroot SecureAnywhere AntiVirus ESET NOD32 Antivirus F-Secure Antivirus SAFE Kaspersky Anti-Virus etc., 63, s
+25, What is A memorized secret used to confirm the identity of a user, password, 59, s
